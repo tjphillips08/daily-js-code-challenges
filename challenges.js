@@ -33,7 +33,10 @@ addOne(1) //=> 2
 addOne(-5) //=> -4
 -----------------------------------------------------------------*/
 // Your solution for 01-addOne here:
-
+function addOne() {
+  return num + 1;
+  }
+  console.log(addOne(1))
 
 
 
